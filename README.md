@@ -20,3 +20,26 @@ clientX / innerWidth aur clientY / innerHeight se cursor ki position ko normaliz
 maxDistance se eyeball ki movement ko control karte hain. Example, agar maxDistance = 15px, to eyeball 15px tak move karegi.
 4) Apply to Eyeballs:
 Ye calculated values (fractionX aur fractionY) transform: translate() se eyeballs ki position ko change karte hain.
+
+
+Features:
+
+Dynamic emoji expressions
+
+Smooth animations for eyes and mouth
+
+Fully responsive design
+
+Easy to customize
+
+
+Technologies Used:
+
+HTML5
+
+CSS3 (animations & styling)
+
+JavaScript (event handling & DOM manipulation)
+
+
+This project is perfect for learning basic web animations, DOM events, and interactive UI elements.
